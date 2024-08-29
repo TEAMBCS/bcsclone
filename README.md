@@ -2,12 +2,12 @@
 #ASSALAMUALIKUM
 This Is A Free Working Tools For Cracking Old And New Facebook Account Like (2004 To Now)
 
-#Features⬇️:
+# Features⬇️:
 [1] File Cloning
 [2] Old Id Cloning
 [3] Random Clinic
 
-#Installation ⬇️:
+# Installation ⬇️:
 pkg update
 pkg upgrade
 pkg install python
@@ -19,7 +19,7 @@ git clone https://github.com/TEAMBCS/bcsclone
 cd bcsclone
 python bcs.py
 
-#Tested On⬇️:
+# Tested On⬇️:
 Termux
 Kali Linux
 Ubuntu
