@@ -1,11 +1,11 @@
 # bcsclone
 # ASSALAMUALIKUM
-# This Is A Free Working Tools For Cracking Old And New Facebook Account Like (2004 To Now)
+• This Is A Free Working Tools For Cracking Old And New Facebook Account Like (2004 To Now)
 
 # Features⬇️:
-[1] File Cloning
-[2] Old Id Cloning
-[3] Random Clinic
+• [1] File Cloning
+• [2] Old Id Cloning
+• [3] Random Clinic
 
 # Installation ⬇️:
 pkg update
@@ -20,9 +20,9 @@ cd bcsclone
 python bcs.py
 
 # Tested On⬇️:
-Termux
-Kali Linux
-Ubuntu
-Debain
-Join Our Facebook Group ⬇️:
+• Termux
+• Kali Linux
+• Ubuntu
+• Debain
+• Join Our Facebook Group ⬇️:
 https://facebook.com/groups/572787103428508/
